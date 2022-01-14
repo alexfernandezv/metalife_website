@@ -1,3 +1,4 @@
+import { FaDiscord, FaTwitter } from 'react-icons/fa'
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -26,7 +27,7 @@ export const Navigation = (props) => {
           className='collapse navbar-collapse'
           id='bs-example-navbar-collapse-1'
         >
-          <ul className='nav navbar-nav navbar-right'>
+          <ul className='nav navbar-nav navbar-center'>
             <li>
               <a href='#features' className='page-scroll'>
                 About us
@@ -42,8 +43,18 @@ export const Navigation = (props) => {
                 Team
               </a>
             </li>
-            
-            
+          </ul>
+          <ul className='nav navbar-nav navbar-right'>
+            <li>
+            <a href='' className='sm-logos'>
+                <FaDiscord/>
+              </a>
+            </li>
+            <li>
+              <a href='' className='sm-logos'>
+                <FaTwitter/>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
