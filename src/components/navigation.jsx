@@ -2,7 +2,7 @@ import { FaDiscord, FaTwitter } from 'react-icons/fa'
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
-      <div className='container'>
+      <div className='container-fluid'>
         <div className='navbar-header'>
           <button
             type='button'
