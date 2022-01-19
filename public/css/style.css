@@ -71,9 +71,9 @@ hr {
 }
 
 #menu.navbar-default {
-	background-color: #212121;
-	border-color: rgba(231, 231, 231, 0);
-	box-shadow: 0 0 10px rgba(0,0,0,0.15)
+	/* background-color: #212121;
+	/* border-color: rgba(231, 231, 231, 0); */
+	/* box-shadow: 0 0 10px rgba(0,0,0,0.15)  */
 }
 .logo{
     width: 200px;
@@ -94,7 +94,7 @@ hr {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
 	color: white;
-	font-size: 20px;
+	font-size: 23px;
 	font-weight: 400;
 	padding: 8px 2px;
 	border-radius: 0;
@@ -208,6 +208,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	background-image: url(../img/1.jpg) ;
 }
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
@@ -610,6 +611,11 @@ color: #777;
 @media (max-width: 768px) {
 #about img {
 	margin: 50px 0;
+}
+#menu.navbar-default {
+	background-color: #212121 !important;
+	border-color: rgba(231, 231, 231, 0);
+	box-shadow: 0 0 10px rgba(0,0,0,0.15);
 }
 }
 

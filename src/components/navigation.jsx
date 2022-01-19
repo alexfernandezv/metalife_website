@@ -46,12 +46,12 @@ export const Navigation = (props) => {
           </ul>
           <ul className='nav navbar-nav navbar-right'>
             <li>
-            <a href='' className='sm-logos'>
+            <a href='https://discord.gg/y7HKrUZ3' className='sm-logos'>
                 <FaDiscord/>
               </a>
             </li>
             <li>
-              <a href='' className='sm-logos'>
+              <a href='http://www.twitter.com/MetalifeClub' className='sm-logos'>
                 <FaTwitter/>
               </a>
             </li>
