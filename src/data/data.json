@@ -1,12 +1,11 @@
 {
     "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Welcome to the city!",
+        "paragraph": "5000 game access cards launching on the Solana blockchain"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Metalife is a sandbox P2E game where you can do, create and discover whatever you imagine. From driving amazing cars around the Metalife city, to carrying out some types of jobs to earn money and build your own house. Our game has everything people like about The Sims and everything they like about Grand Theft Auto, so what better combination to get you into the city!",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -22,32 +21,32 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Launch",
+            "text": "Metalife access passes will be available in a public mint. First come first serve, 1 SOL + fees. 5000 - (whitelisted members' passes minted from pre-sale) will be available to mint."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Right after mint",
+            "text": "• Secondary market listing on Magic Eden. • Grant access to the Metalife game pre Alpha to every holder. • Creation of the Metalife DAO. Metalife community to proceed with the further development of the game. Funds will be used to improve the game and to reward Metalife players."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
+            "name": "Q2 2022",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
+            "name": "Q3 2022",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
+            "name": "Q4 2022",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
+            "name": "Q4 2022",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
 
@@ -86,22 +85,17 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Yuste",
+            "job": "Project Lead & Metalife game developer"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Lex",
+            "job": "Project Lead & Software developer"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Bvaveen",
+            "job": "Metalife access cards Designer"
         }
     ],
     "Contact": {
