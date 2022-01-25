@@ -324,7 +324,7 @@ header .intro-text {
 #services {
 	min-width: 500px;
 	padding: 100px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: #212121;
 	color: #fff;
 }
 #services .service-desc {
@@ -632,4 +632,8 @@ color: #777;
 
 .cursor{
 	cursor: pointer;
+}
+
+.rm-dates{
+	font-size: 20px !important;
 }
