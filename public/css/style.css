@@ -271,7 +271,8 @@ header .intro-text {
 #about {
 	min-width: 500px;
 	padding: 100px 0;
-	background-color: #323232;
+	background: black;
+
 }
 #about h3 {
 	font-size: 22px;
@@ -324,7 +325,9 @@ header .intro-text {
 #services {
 	min-width: 500px;
 	padding: 100px 0;
-	background: #212121;
+	background-color: #2b4162;
+	background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+	
 	color: #fff;
 }
 #services .service-desc {
@@ -368,7 +371,7 @@ header .intro-text {
 #portfolio {
 	min-width: 500px;
 	padding: 100px 0;
-	background-color: #212121;
+	background: black;
 }
 .portfolio-item {
 	margin: 1px -15px 0 -14px;
@@ -457,7 +460,9 @@ header .intro-text {
 #team {
 	min-width: 500px;
 	padding: 100px 0;
-	background: #323232;
+	background-color: #2b4162;
+	background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+	
 	color: white;
 }
 #team h4 {
@@ -635,5 +640,18 @@ color: #777;
 }
 
 .rm-dates{
-	font-size: 20px !important;
+	font-size: 22px !important;
 }
+.vertical-timeline-element-subtitle {
+	color: white;
+	font-family: monospace;
+}
+
+.vertical-timeline-element-content {
+	box-shadow:  3px 3px gold !important;
+}
+
+.vertical-timeline-element-content-arrow {
+	border-right: 7px solid gold !important;
+}
+
