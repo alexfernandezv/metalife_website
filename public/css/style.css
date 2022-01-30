@@ -202,6 +202,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	position: relative;
 	width: 100%;
+	min-width: 500px;
 	padding: 0;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
@@ -241,6 +242,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+	min-width: 500px;
 	padding: 100px 0;
 	background: #212121;
 }
@@ -267,8 +269,10 @@ header .intro-text {
 }
 /* About Section */
 #about {
+	min-width: 500px;
 	padding: 100px 0;
-	background-color: #323232;
+	background: black;
+
 }
 #about h3 {
 	font-size: 22px;
@@ -319,8 +323,11 @@ header .intro-text {
 }
 /* Services Section */
 #services {
+	min-width: 500px;
 	padding: 100px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background-color: #2b4162;
+	background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+	
 	color: #fff;
 }
 #services .service-desc {
@@ -362,8 +369,9 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
+	min-width: 500px;
 	padding: 100px 0;
-	background-color: #212121;
+	background: black;
 }
 .portfolio-item {
 	margin: 1px -15px 0 -14px;
@@ -450,8 +458,11 @@ header .intro-text {
 }
 /* Team Section */
 #team {
+	min-width: 500px;
 	padding: 100px 0;
-	background: #323232;
+	background-color: #2b4162;
+	background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+	
 	color: white;
 }
 #team h4 {
@@ -471,6 +482,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
+	min-width: 500px;
 	padding: 100px 0 60px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	color: rgba(255,255,255,.75);
@@ -597,6 +609,7 @@ color: #777;
 }
 /* Footer Section*/
 #footer {
+	min-width: 500px;
 	background: black;
 	padding: 30px 0;
 }
@@ -625,3 +638,20 @@ color: #777;
 .cursor{
 	cursor: pointer;
 }
+
+.rm-dates{
+	font-size: 22px !important;
+}
+.vertical-timeline-element-subtitle {
+	color: white;
+	font-family: monospace;
+}
+
+.vertical-timeline-element-content {
+	box-shadow:  3px 3px gold !important;
+}
+
+.vertical-timeline-element-content-arrow {
+	border-right: 7px solid gold !important;
+}
+
