@@ -37,29 +37,34 @@ export const Gallery = props => {
           <p>How to access to the exclusive Metalife access cards presale</p>
         </div>
         <div className="row">
-          <div className="portfolio-items">
-            {data.map(({ title, thumb }, index) => (
-              <div key={index} onClick={() => openImageViewer(index)} className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item cursor">
-                  <div className="hover-bg">
-                    <div className="hover-text">
-                      <h4>{title}</h4>
-                    </div>
-                    <img src={thumb} className="img-responsive" alt="Project Title" />{" "}
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-
-          {isViewerOpen && (
-            <ImageViewer
-              src={images}
-              backgroundStyle={{ zIndex: 99999 }}
-              currentIndex={currentImage}
-              onClose={closeImageViewer}
-            />
-          )}
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
         </div>
       </div>
     </div>
