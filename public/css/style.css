@@ -715,7 +715,7 @@ color: #777;
   content: "Trailer";
   color: #FFF;
   display: block;
-  padding-right: 140px;
+  /* padding-right: 140px; */
   position: absolute;
 }
 
@@ -739,7 +739,7 @@ color: #777;
   height: 10px;
   opacity: 0.7;
   position: absolute;
-  width: 10px;
+  /* width: 10px; */
 }
 
 .inner-shiny::before
@@ -748,7 +748,7 @@ color: #777;
   height: 7px;
   left: 0.12em;
   top: 0.8em;
-  width: 7px;
+  /* width: 7px; */
 }
 
 .inner-shiny::after
@@ -792,7 +792,7 @@ color: #777;
   content: "Out";
   color: #FFF;
   display: block;
-  padding-right: 140px;
+  /* padding-right: 140px; */
   position: absolute;
 }
 
@@ -817,7 +817,7 @@ color: #777;
   height: 10px;
   opacity: 0.7;
   position: absolute;
-  width: 10px;
+  /* width: 10px; */
 }
 
 .inner-out::before
@@ -826,7 +826,7 @@ color: #777;
   height: 7px;
   left: 0.12em;
   top: 0.8em;
-  width: 7px;
+  /* width: 7px; */
 }
 
 .inner-out::after
@@ -868,7 +868,7 @@ color: #777;
   content: "Out";
   color: #FFF;
   display: block;
-  padding-right: 140px;
+  /* padding-right: 140px; */
   position: absolute;
 }
 
@@ -893,7 +893,7 @@ color: #777;
   height: 10px;
   opacity: 0.7;
   position: absolute;
-  width: 10px;
+  /* width: 10px; */
 }
 
 .inner-now::before
@@ -902,7 +902,7 @@ color: #777;
   height: 7px;
   left: 0.12em;
   top: 0.8em;
-  width: 7px;
+  /* width: 7px; */
 }
 
 .inner-now::after
