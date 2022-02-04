@@ -26,7 +26,7 @@ export const About = (props) => {
             </div>
           </div>
           <div className='col-xs-12 col-md-6'>
-            <iframe className='trailer-embed' src="https://www.youtube.com/embed/hvoD7ehZPcM" title="YouTube video player"></iframe>
+            <iframe className='trailer-embed' src="https://www.youtube.com/embed/bW4qTajjKas" title="YouTube video player"></iframe>
           </div>
         </div>
       </div>

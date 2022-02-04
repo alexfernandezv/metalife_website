@@ -18,7 +18,7 @@ export const Navigation = (props) => {
           </button>
           
           
-          <a className='navbar-brand page-scroll' href='#page-top'>
+          <a className='navbar-brand page-scroll' href='#welcome'>
             <img src="img/navbar/METALIFE D-01.png" className="logo"></img>
           </a>{' '}
         </div>
@@ -51,12 +51,12 @@ export const Navigation = (props) => {
           </ul>
           <ul className='nav navbar-nav navbar-right'>
             <li>
-            <a href='https://discord.gg/y7HKrUZ3' className='sm-logos'>
+            <a href='https://discord.gg/b9AD3txbnh' target="_blank" rel="noreferrer" className='sm-logos'>
                 <FaDiscord/>
               </a>
             </li>
             <li>
-              <a href='http://www.twitter.com/MetalifeClub' className='sm-logos'>
+              <a href='http://www.twitter.com/MetalifeClub' target="_blank" rel="noreferrer" className='sm-logos'>
                 <FaTwitter/>
               </a>
             </li>

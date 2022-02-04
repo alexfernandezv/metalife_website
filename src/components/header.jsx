@@ -22,11 +22,12 @@ export const Header = (props) => {
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
                 </h1>
+                <p><img className="nft" src="img/nft.gif"></img></p>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
                  
                   className='btn btn-custom btn-lg page-scroll'
-                > Soon
+                > Launching Soon  <img className="solana-logo" src="img/solanaLogoMark.png"></img>
                  {/* <Countdown
                     date={Date.UTC(2022,3,30,18,0,0,0)}
                     renderer={renderer}

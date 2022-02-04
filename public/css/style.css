@@ -171,8 +171,7 @@ hr {
 	font-family: 'Raleway', sans-serif;
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #5ca9fb;
-	background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+	background-color: black;
 	padding: 14px 34px;
 	letter-spacing: 1px;
 	margin: 0;
@@ -184,8 +183,8 @@ hr {
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: #fff;
-	background-image: none;
-	background-color: #6372ff;
+	background-image: linear-gradient(to right, #5ca9fb 0%, black 100%);
+	
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -217,12 +216,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	height: 1000px;
 }
 .intro h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Wallpoet', cursive;
 	color: #fff;
-	font-size: 82px;
+	font-size: 76px;
 	font-weight: 700;
 	text-transform: uppercase;
-	margin-top: 0;
+	margin-top: -162px;
 	margin-bottom: 10px;
 }
 .intro h1 span {
@@ -231,11 +230,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro p {
 	color: #fff;
-	font-size: 22px;
+	font-size: 27px;
 	font-weight: 300;
 	line-height: 30px;
 	margin: 0 auto;
-	margin-bottom: 60px;
+	margin-bottom: 20px;
 }
 header .intro-text {
 	padding-top: 350px;
@@ -647,7 +646,7 @@ color: #777;
 	margin: 50px 0;
 }
 #menu.navbar-default {
-	background-color: #212121 !important;
+	background-color: black !important;
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15);
 }
@@ -672,7 +671,7 @@ color: #777;
 .vertical-timeline-element-content-arrow {
 	border-right: 7px solid gold !important;
 }
-@media (max-width: 768px) {
+@media (max-width: 1440px) {
 	.trailer-embed {
 		width: -webkit-fill-available !important;
 		height: 460px;
@@ -680,9 +679,15 @@ color: #777;
 	}
 }
 
+@media (max-width: 600px) {
+	.nft{
+		width: 420px !important;
+	}
+}
+
 .trailer-embed {
 	width: 700px;
-	height: 460px;
+	height: 418px;
 	border-color: lightskyblue;
 }
 
@@ -930,4 +935,13 @@ color: #777;
 
 .wl-text .first-ph {
 	font-size: 22px !important;
+}
+
+.solana-logo{
+	height: 30px;
+	margin-left: 5px;
+}
+
+.nft{
+	width: 500px;
 }
