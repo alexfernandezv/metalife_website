@@ -26,11 +26,11 @@ export const Header = (props) => {
                 <a
                  
                   className='btn btn-custom btn-lg page-scroll'
-                >
-                 <Countdown
+                > Soon
+                 {/* <Countdown
                     date={Date.UTC(2022,3,30,18,0,0,0)}
                     renderer={renderer}
-                />
+                /> */}
                 </a>{' '}
               </div>
             </div>

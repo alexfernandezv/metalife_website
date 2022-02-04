@@ -84,18 +84,16 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/yuste.jpg",
             "name": "Yuste",
-            "job": "Project Lead & Metalife game developer"
+            "job": "Project Lead & Metalife game developer",
+            "st": "Software Engineer"
         },
         {
-            "img": "img/team/02.jpg",
+            "img": "img/team/lex.jpg",
             "name": "Lex",
-            "job": "Project Lead & Software developer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Bvaveen",
-            "job": "Metalife access cards Designer"
+            "job": "Project Lead & Software Developer",
+            "st": "Software Engineer"
         }
     ],
     "Contact": {

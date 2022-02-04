@@ -30,41 +30,29 @@ export const Gallery = props => {
   };
 
   return (
-    <div id="portfolio" className="text-center">
+    <div id="whitelist" className="text-center">
       <div className="container">
         <div className="section-title">
           <h2>Whitelist</h2>
-          <p>How to access to the exclusive Metalife access cards presale</p>
         </div>
         <div className="row">
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
+          <div className="wl-text">
+            <p className="first-ph">The Metalife whitelist will have room for 500 people. <br/>Being on the list will guarantee an exclusive presale for all the whitelisted members. <br/><br/>These 500 will be selected as follows:</p>
+            <br/>
+            <ul>
+              <li>
+                <p>🚀 <span>1000</span> first people to invite at least 10 friends to the Metalife Discord server.<br/> Check conditions in our Discord!</p>
+              </li>
+              <br/>
+              <li>
+               <p>🚀 <span>250</span> lucky people in our 5 Twitter contests. 50 people for each contest. Stay tuned!</p> 
+              </li>
+              <br/>
+              <li>
+                <p>🚀 <span>250</span> reserved for Discord giveaways, partnerships and other stuff</p>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
