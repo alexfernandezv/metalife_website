@@ -51,7 +51,7 @@ export const Navigation = (props) => {
           </ul>
           <ul className='nav navbar-nav navbar-right'>
             <li>
-            <a href='https://discord.gg/Dy7VSsvVgd' target="_blank" rel="noreferrer" className='sm-logos'>
+            <a href='https://discord.gg/Sp5xPvBH2e' target="_blank" rel="noreferrer" className='sm-logos'>
                 <FaDiscord/>
               </a>
             </li>
