@@ -28,7 +28,7 @@ export const Services = (props) => {
           <br/>
           <h4 className="vertical-timeline-element-subtitle">• Whitepaper v.0.1 and roadmap confection</h4>
           <br/>
-          <h4 className="vertical-timeline-element-subtitle">• Pre-sale mint for whitelisted members (500 in total)</h4>
+          <h4 className="vertical-timeline-element-subtitle">• Pre-sale mint for whitelisted members (1000 in total)</h4>
           <br/>
           <h4 className="vertical-timeline-element-subtitle">• 5 Twitter contests: at 100, 250, 500 and 1k, 5k Twitter followers milestone</h4>
         </VerticalTimelineElement>
@@ -40,7 +40,7 @@ export const Services = (props) => {
           iconStyle={{ background: 'rgb(147, 101, 219)', color: '#fff' }}
           icon={<Circles/>}
         >
-          <h4 className="vertical-timeline-element-subtitle">• Metalife access passes will be available in a public mint. First come first serve, 1 SOL + fees. 5000 - (whitelisted members' passes minted from pre-sale) will be available to mint.</h4>
+          <h4 className="vertical-timeline-element-subtitle">• Metalife access passes will be available in a public mint. First come first serve, 1 SOL + fees. 3888 - (whitelisted members' passes minted from pre-sale) will be available to mint.</h4>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
