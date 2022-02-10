@@ -37,11 +37,11 @@ export const Gallery = props => {
         </div>
         <div className="row">
           <div className="wl-text">
-            <p className="first-ph">The Metalife whitelist will have room for 500 people. <br/>Being on the list will guarantee an exclusive presale for all the whitelisted members. <br/><br/>These 500 will be selected as follows:</p>
+            <p className="first-ph">The Metalife whitelist will have room for 1000 people. <br/>Being on the list will guarantee an exclusive presale for all the whitelisted members. <br/><br/>These 1000 will be selected as follows:</p>
             <br/>
             <ul>
               <li>
-                <p>🚀 <span>1000</span> first people to invite at least 10 friends to the Metalife Discord server.<br/> Check conditions in our Discord!</p>
+                <p>🚀 <span>500</span> first people to invite at least 10 friends to the Metalife Discord server.<br/> Check conditions in our Discord!</p>
               </li>
               <br/>
               <li>
